@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sirr": {
+      "command": "npx",
+      "args": ["-y", "@sirrlock/mcp"],
+      "env": {
+        "SIRR_SERVER": "https://sirr.sirrlock.com",
+        "SIRR_TOKEN": ""
+      }
+    }
+  }
+}

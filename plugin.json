@@ -1,0 +1,8 @@
+{
+  "name": "sirr",
+  "displayName": "Sirr — Secure Sharing",
+  "description": "Share sensitive values with burn-after-read links, or store named secrets for your session. Powered by sirrlock.com.",
+  "version": "1.0.0",
+  "author": "sirrlock",
+  "homepage": "https://sirrlock.com"
+}
